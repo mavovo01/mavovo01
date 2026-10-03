@@ -6,7 +6,7 @@ I'm a Biological Sciences graduate currently completing a Postgraduate Diploma i
 
 My academic background combines Medical Cell Biology with Animal, Plant and Environmental Sciences, while my postgraduate studies have allowed me to develop practical skills in Python, statistical analysis, machine learning and data science.
 
-###**🔬 About Me**
+**🔬 About Me**
 
 - 🎓 BSc Biological Sciences graduate
 
